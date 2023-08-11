@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm an aspiring front-end developer with evolving expertise, complemented by hands-on ML and backend exposure.
 
 <!--
 **harshita-priya1/harshita-priya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
